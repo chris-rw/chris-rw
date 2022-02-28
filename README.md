@@ -1,4 +1,4 @@
-- 👋 Hi there😊, I’m @chris-rw
+- 👋 Hi there😊, 
 i am an enthusiastic full stack dev and a cyberscurity author with a 4years of practical experience in programing currently working on imprementing typescript to my frontend project
 
 
